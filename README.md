@@ -1,14 +1,12 @@
-# 🌸 Iris Species Prediction App
+🌸 Iris Species Prediction App
 
-### 👨‍💻 Developed by Murad Khan
 
 This project is an AI-based Iris Flower Classification Web App built using **Machine Learning and Streamlit**.
 
 It predicts the species of an Iris flower based on user input measurements.
 
 ---
-
-## 🎯 Project Objective
+Project Objective
 To build a Machine Learning model that can classify iris flowers into:
 
 - Iris Setosa
@@ -18,17 +16,15 @@ To build a Machine Learning model that can classify iris flowers into:
 and deploy it as a web application.
 
 ---
-
-## 🧠 Technologies Used
+Technologies Used
 - Python
 - Machine Learning
 - TensorFlow / Keras
 - Streamlit
 - Numpy & Scikit-learn
 
----
-
-## 📂 Project Files
+-
+Project Files
 
 | File | Description |
 |------|-------------|
@@ -39,7 +35,5 @@ and deploy it as a web application.
 | README.md | Project documentation |
 
 ---
-
-## ⚙️ How to Run Project
-
-### Step 1: Install libraries
+How to Run Project
+Step 1: Install libraries
