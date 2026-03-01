@@ -1,11 +1,7 @@
-🌸 Iris Species Prediction App
+Iris Species Prediction App
 
+Developed by Huzaifa Masood
 
-This project is an AI-based Iris Flower Classification Web App built using **Machine Learning and Streamlit**.
-
-It predicts the species of an Iris flower based on user input measurements.
-
----
 Project Objective
 To build a Machine Learning model that can classify iris flowers into:
 
@@ -14,8 +10,6 @@ To build a Machine Learning model that can classify iris flowers into:
 - Iris Virginica
 
 and deploy it as a web application.
-
----
 Technologies Used
 - Python
 - Machine Learning
@@ -31,7 +25,6 @@ Project Files
 | app.py | Streamlit web app |
 | iris_model.py | Model training code |
 | iris_model.h5 | Trained ML model |
-| APP.jpeg | App screenshot |
 | README.md | Project documentation |
 
 ---
