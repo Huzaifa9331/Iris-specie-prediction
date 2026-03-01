@@ -15,7 +15,6 @@ Iris Versicolor
 Iris Virginica
 
 The model is deployed as an interactive web application, allowing users to input flower measurements and receive instant predictions.
-🎯 Project Objective
 
 The main objective of this project is to:
 
